@@ -1,5 +1,3 @@
-> **重要通知**：本项目后续不再更新，后端项目已迁移至 [Wrangler-API](https://github.com/Moe-Sakura/Wrangler-API)
-
 # 🔍 SearchGal · Gal资源聚合搜索工具
 <p align="center">
   <strong>WEB丨多源聚合丨快速响应</strong>
@@ -7,10 +5,7 @@
 
 ---
 
-## 🌟 项目亮点
-
-> 🖥️预览地址: [SearchGal.homes](https://searchgal.homes)<br>
-> (感谢 [@Asuna](https://saop.cc/) 大佬的服务器支撑与技术支持)
+## 🌟 项目
 
 ✅ **多端适配**<br>
 ▸ WEB完美适配PC端与移动端，随时随地畅快搜索<br>
